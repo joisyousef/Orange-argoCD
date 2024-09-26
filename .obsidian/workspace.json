@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "36d806d22277e600",
+    "type": "split",
+    "children": [
+      {
+        "id": "8517b3b8317d2a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940623eaf907fbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabOne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3591754e8615421",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8c65d9aba59c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ac68a2cfa3f8c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62cd904723cced1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "29350046728132e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "log4",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "9f28e13130c944db",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfc306f4fd22751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89660591802ed0cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LabOne.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c532cbd54c0aa68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LabOne.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9ba812687b93502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94169d3cac48791d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LabOne.md"
+              }
+            }
+          },
+          {
+            "id": "828698fe4d3d450d",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "612f67ecea855a66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb4aa54a02982dda",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d970f38d2c21186c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b608d4980e7ce58",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "940623eaf907fbb5",
+  "lastOpenFiles": [
+    "LabOne.md",
+    "LabTwo/Lab Two Jenkins.md",
+    "LabTwo/attachment/c18760a47694960706ee8dbafad96736.png",
+    "LabTwo/attachment/7fb1d97cdec00fe58cc4fc07a41e3c04.png",
+    "LabTwo/attachment/2c5d3e9258f0e1f2420d69bb90f5e911.png",
+    "LabTwo/attachment/83ae8eb1e73e3eee7c89b0cdc0451ced.png",
+    "LabTwo/attachment/d7d75b71770439d4d26c9a89f88acf1d.png",
+    "LabTwo/attachment/698e56ecf81cdcaaeabcc426eae86e18.png",
+    "LabTwo/attachment/7b6c6848ce5b55d681348118ae51c209.png",
+    "LabTwo/attachment/4637d5af23e366c446f943ea8ac747dd.png",
+    "LabTwo/attachment",
+    "LabTwo",
+    "smart-chats",
+    "Notes/DevOpsNana/fedora setup.md",
+    "Notes/DevOpsNana/Containers With Docker.md",
+    "Notes/DevOpsNana/Kuberenets.md",
+    "Notes/DevOpsNana/DockerProject.md",
+    "Notes/DevOpsNana/Artifact Repository Manager with Nexus.md",
+    "Screenshot_20240914_155956.png",
+    "Pasted image 20240604053548.png",
+    "output/Bug Bounty Hunting/Bug Hunting Methodology.md",
+    "output/Bug Bounty Hunting/Bug Hunting/Reporting.md",
+    "output/Bug Bounty Hunting/Bug Hunting/XSS.md",
+    "output/Bug Bounty Hunting/Bug Hunting/Reporting 1.md",
+    "output/Bug Bounty Hunting/Bug Hunting/CSRF & SSRF & IV.md",
+    "output/Bug Bounty Hunting/Bug Hunting/Injections.md",
+    "output/Bug Bounty Hunting/Bug Hunting/AUTHs.md",
+    "output/Bug Bounty Hunting/Bug Hunting",
+    "output/Bug Bounty Hunting/Bug Bounty Hunting & OSINT Resources.md",
+    "output/Bug Bounty Hunting",
+    "output/Blockchain/Blockchain.md",
+    "output/Blockchain/Blockcahin 101.md",
+    "output/Blockchain",
+    "output/BC/BC.md",
+    "output/BC",
+    "output/Automation.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/URL File Attacks.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/Token Impersonation AD.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/SMB relay attack.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/SMB relay attack 1.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/Post-Compromise Attack Strategy.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/Pivoting.md",
+    "output/Attacking Active Directory- Initial Attack Vectors/Pass Attacks.md",
+    "output/Attacking Active Directory- Initial Attack Vectors",
+    "output/API Notes",
+    "Network",
+    "Notes/CBBH/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Notion/Untitled.canvas",
+    "TemplateVault/04 - Tasks/My Ideas.canvas"
+  ]
+}
